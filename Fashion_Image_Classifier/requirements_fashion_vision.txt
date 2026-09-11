@@ -1,0 +1,8 @@
+streamlit>=1.40
+numpy==1.26.4
+opencv-python
+pillow
+tensorflow
+pandas
+plotly
+reportlab
